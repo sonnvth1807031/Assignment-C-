@@ -1,0 +1,11 @@
+/home/nguyenvanson/RiderProjects/bank1/bank1/bin/Debug/netcoreapp2.2/bank1.deps.json
+/home/nguyenvanson/RiderProjects/bank1/bank1/bin/Debug/netcoreapp2.2/bank1.runtimeconfig.json
+/home/nguyenvanson/RiderProjects/bank1/bank1/bin/Debug/netcoreapp2.2/bank1.runtimeconfig.dev.json
+/home/nguyenvanson/RiderProjects/bank1/bank1/bin/Debug/netcoreapp2.2/bank1.dll
+/home/nguyenvanson/RiderProjects/bank1/bank1/bin/Debug/netcoreapp2.2/bank1.pdb
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.csprojAssemblyReference.cache
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.csproj.CoreCompileInputs.cache
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.AssemblyInfoInputs.cache
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.AssemblyInfo.cs
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.dll
+/home/nguyenvanson/RiderProjects/bank1/bank1/obj/Debug/netcoreapp2.2/bank1.pdb
